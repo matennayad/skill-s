@@ -7,6 +7,9 @@
 - **Trail-code (Graft)** – מפת קוד + זיכרון של מה שלמדתם (נשמר בתיקייה `.trail/`)
 - **Codebase Memory MCP** – גרף ידע של הקוד ("מי קורא למי")
 - **OpenMontage** – הפקת וידאו, בתיקייה `~/OpenMontage`
+- **Graphify** – מפת ידע של הקוד, נשאלת במקום לקרוא קבצים: `/graphify .`
+
+תיעוד מפורט של כל כלי: [TOOLS-LOG.md](TOOLS-LOG.md)
 
 ## חשוב
 כל מה שלא נשמר (commit + push) לריפו הזה – נמחק בסוף הסשן.
