@@ -1,8 +1,8 @@
 {
   ".claude/settings.json": {
-    "mtime": 1795570020.669187,
-    "seen": 1795570063.3427575,
-    "ast_hash": "a7bbf5017d628bc1e164aa2195a95122",
+    "mtime": 1795570063.4420507,
+    "seen": 1795570098.9626558,
+    "ast_hash": "94581c89e460c6b639c7d6b2dc3b9c68",
     "semantic_hash": ""
   },
   ".trail/hook.cjs": {
@@ -30,9 +30,9 @@
     "semantic_hash": ""
   },
   "README.md": {
-    "mtime": 1795570020.6695666,
-    "seen": 1795570063.3427684,
-    "ast_hash": "b5a515d5816710a1ef0ac6de60fc6aa0",
+    "mtime": 1795570584.566512,
+    "seen": 1795570587.4733036,
+    "ast_hash": "08b056796f254c109fd7500de5781d3a",
     "semantic_hash": ""
   },
   "learn/driving/MISSION.md": {
@@ -69,6 +69,18 @@
     "mtime": 1795570020.6697936,
     "seen": 1795570063.3427768,
     "ast_hash": "5532a8969dc35023a7c34c037064d6dc",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1795570063.4411457,
+    "seen": 1795570098.962671,
+    "ast_hash": "dfe5fa7939121e96d61b54077cc9ab84",
+    "semantic_hash": ""
+  },
+  "TOOLS-LOG.md": {
+    "mtime": 1795570582.766512,
+    "seen": 1795570587.4733057,
+    "ast_hash": "c11f8840aa5a1e0b5925e8028dd478ad",
     "semantic_hash": ""
   }
 }
