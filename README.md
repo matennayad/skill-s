@@ -8,6 +8,7 @@
 - **Codebase Memory MCP** – גרף ידע של הקוד ("מי קורא למי")
 - **OpenMontage** – הפקת וידאו, בתיקייה `~/OpenMontage`
 - **Graphify** – מפת ידע של הקוד, נשאלת במקום לקרוא קבצים: `/graphify .`
+- **Scrollcraft** – בניית אתרים שזזים בגלילה: `/nateherk-design:scroll-craft`
 
 תיעוד מפורט של כל כלי: [TOOLS-LOG.md](TOOLS-LOG.md)
 
