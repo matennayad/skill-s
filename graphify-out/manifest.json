@@ -1,0 +1,74 @@
+{
+  ".claude/settings.json": {
+    "mtime": 1795570020.669187,
+    "seen": 1795570063.3427575,
+    "ast_hash": "a7bbf5017d628bc1e164aa2195a95122",
+    "semantic_hash": ""
+  },
+  ".trail/hook.cjs": {
+    "mtime": 1795570020.6695666,
+    "seen": 1795570063.3427615,
+    "ast_hash": "9c33585f64b7d53ed3315ea0ce7af34a",
+    "semantic_hash": ""
+  },
+  "learn/driving/assets/order.js": {
+    "mtime": 1795570020.6697936,
+    "seen": 1795570063.3427632,
+    "ast_hash": "9312d3b03309099c752d30f37bd33614",
+    "semantic_hash": ""
+  },
+  "learn/driving/assets/quiz.js": {
+    "mtime": 1795570020.6697936,
+    "seen": 1795570063.3427646,
+    "ast_hash": "bbd71bd1bc61155c57fd20428d74c5dd",
+    "semantic_hash": ""
+  },
+  ".trail/README.md": {
+    "mtime": 1795570020.6695666,
+    "seen": 1795570063.3427663,
+    "ast_hash": "1edb5907ef97a4f49bcbfcee630b3f23",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1795570020.6695666,
+    "seen": 1795570063.3427684,
+    "ast_hash": "b5a515d5816710a1ef0ac6de60fc6aa0",
+    "semantic_hash": ""
+  },
+  "learn/driving/MISSION.md": {
+    "mtime": 1795570020.6696885,
+    "seen": 1795570063.3427699,
+    "ast_hash": "07afed2f6622d806d58373bbeaccd7c6",
+    "semantic_hash": ""
+  },
+  "learn/driving/NOTES.md": {
+    "mtime": 1795570020.669713,
+    "seen": 1795570063.342771,
+    "ast_hash": "40c240c6181eedb3cb61c4d119a9b9fc",
+    "semantic_hash": ""
+  },
+  "learn/driving/RESOURCES.md": {
+    "mtime": 1795570020.669713,
+    "seen": 1795570063.3427725,
+    "ast_hash": "30f1eff33b7999a76397e5586d6fb909",
+    "semantic_hash": ""
+  },
+  "learn/driving/learning-records/0001-starting-from-zero.md": {
+    "mtime": 1795570020.6697936,
+    "seen": 1795570063.3427737,
+    "ast_hash": "892e1a42e23aaedcd5ee8c9178710226",
+    "semantic_hash": ""
+  },
+  "learn/driving/lessons/0001-roadmap-to-license.html": {
+    "mtime": 1795570020.6697936,
+    "seen": 1795570063.3427753,
+    "ast_hash": "21911bc00ff19d3c147ecd637939a8a4",
+    "semantic_hash": ""
+  },
+  "learn/driving/reference/roadmap.html": {
+    "mtime": 1795570020.6697936,
+    "seen": 1795570063.3427768,
+    "ast_hash": "5532a8969dc35023a7c34c037064d6dc",
+    "semantic_hash": ""
+  }
+}
