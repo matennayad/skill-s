@@ -12,6 +12,7 @@
 - **GSD Core** – ניהול פרויקט גדול בשלבים עם זיכרון בין סשנים: `/gsd-new-project`, `/gsd-help`
 - **rea-video** – פירוק סרטון: איך כל צילום נעשה ואיך לשחזר אותו: `rea-video decompose`
 - **Claudex Loop** – Claude ו-Codex מתכננים ובודקים זה את זה (כרגע רק `claudex-route` פעיל, אין Codex)
+- **landing30** (ערכה בתיקייה `kits/landing30`) – דף נחיתה לכל עסק ברשימה בפקודה אחת: `/build-all`
 
 תיעוד מפורט של כל כלי: [TOOLS-LOG.md](TOOLS-LOG.md)
 
